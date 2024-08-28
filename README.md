@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning banking and finance
 - 💞️ I’m looking to collaborate on the paper work in the field of finance or cs
 - 📫 You could contact me by ispierce.zhou@gmail.com
+- :hammer: My coding skills including python, cpp and rust
 
 <!---
 zhoupenger/zhoupenger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
